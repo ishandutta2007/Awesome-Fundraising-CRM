@@ -22,18 +22,18 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 
 
-| Platform | Description | Key Focus |
-|----------|-------------|-----------|
-| **[Bloomerang](https://bloomerang.co/)** | Donor management CRM focused on retention, engagement scoring, constituent timelines, and easy-to-use fundraising tools for small to mid-sized nonprofits. | Donor retention & engagement |
-| **[DonorPerfect](https://www.donorperfect.com/)** | Comprehensive donor management and fundraising software with robust reporting, marketing tools, gift tracking, and scalability for growing organizations. | Full-featured donor management |
-| **[Blackbaud Raiser’s Edge NXT](https://www.blackbaud.com/)** | Enterprise-grade constituent and fundraising CRM with deep relationship data, AI insights, annual fund tools, and extensive nonprofit ecosystem integrations. | Enterprise fundraising CRM |
-| **[Neon CRM](https://www.neoncrm.com/)** (Neon One) | Flexible nonprofit CRM combining donor management, online fundraising, events, memberships, and email tools with strong reporting and automation. | All-in-one nonprofit CRM |
-| **[Kindful](https://www.kindful.com/)** | Nonprofit CRM with fundraising analytics, donation tracking, and marketing integrations aimed at growing organizations that want connected tools. | Fundraising CRM + integrations |
-| **[Donorbox](https://donorbox.org/)** | Online fundraising platform with donation forms, peer-to-peer campaigns, events, and a lightweight CRM for managing donors and recurring gifts. | Online giving + simple CRM |
-| **[Givebutter](https://www.givebutter.com/)** | Free/affordable all-in-one fundraising platform with donation forms, peer-to-peer, events, ticketing, and built-in CRM for unlimited contacts. | Free/affordable fundraising + CRM |
-| **[Little Green Light](https://www.littlegreenlight.com/)** | Flexible, cloud-based donor management and fundraising platform popular with small-to-mid nonprofits for gift tracking, reporting, and customization. | Affordable donor management |
-| **[EveryAction](https://www.bonterratech.com/)** (Bonterra) | Unified CRM and fundraising platform (formerly EveryAction) focused on engagement, automation, moves management, and multi-channel campaigns. | Engagement & multi-channel fundraising |
-| **[Keela](https://www.keela.co/)** | Nonprofit CRM with smart donation asks, marketing automation, wealth screening insights, and tools designed to help teams raise more efficiently. | Smart fundraising & automation |
+| Platform | Description | Key Focus | Pricing | Free Tier / Trial Limits |
+|----------|-------------|-----------|---------|--------------------------|
+| **[Bloomerang](https://bloomerang.co/)** | Donor management CRM focused on retention, engagement scoring, constituent timelines, and easy-to-use fundraising tools for small to mid-sized nonprofits. | Donor retention & engagement | From $125/mo (billed annually) for CRM (or $40/mo for basic Fundraising) | No free tier or free trial (demo available) |
+| **[DonorPerfect](https://www.donorperfect.com/)** | Comprehensive donor management and fundraising software with robust reporting, marketing tools, gift tracking, and scalability for growing organizations. | Full-featured donor management | From $99/mo | No free tier or free trial (demo available) |
+| **[Blackbaud Raiser’s Edge NXT](https://www.blackbaud.com/)** | Enterprise-grade constituent and fundraising CRM with deep relationship data, AI insights, annual fund tools, and extensive nonprofit ecosystem integrations. | Enterprise fundraising CRM | From ~$3,000/yr ($250/mo equivalent) custom annual contracts | No free tier or standard free trial (demo available) |
+| **[Neon CRM](https://www.neoncrm.com/)** (Neon One) | Flexible nonprofit CRM combining donor management, online fundraising, events, memberships, and email tools with strong reporting and automation. | All-in-one nonprofit CRM | From $99/mo | No free tier or free trial (demo available) |
+| **[Kindful](https://www.kindful.com/)** | Nonprofit CRM with fundraising analytics, donation tracking, and marketing integrations aimed at growing organizations that want connected tools. | Fundraising CRM + integrations | From $100/mo | No free tier or free trial (demo available) |
+| **[Donorbox](https://donorbox.org/)** | Online fundraising platform with donation forms, peer-to-peer campaigns, events, and a lightweight CRM for managing donors and recurring gifts. | Online giving + simple CRM | $0/mo base (2.95% platform fee per donation) | Free plan available with unlimited contacts/donations; paid Pro plan from $150/mo |
+| **[Givebutter](https://www.givebutter.com/)** | Free/affordable all-in-one fundraising platform with donation forms, peer-to-peer, events, ticketing, and built-in CRM for unlimited contacts. | Free/affordable fundraising + CRM | $0/mo base (0% platform fee with optional donor tipping, or 3% fee) | Free plan includes unlimited contacts, campaigns, & emails; paid Plus plan from $29/mo |
+| **[Little Green Light](https://www.littlegreenlight.com/)** | Flexible, cloud-based donor management and fundraising platform popular with small-to-mid nonprofits for gift tracking, reporting, and customization. | Affordable donor management | From $45/mo for up to 2,500 constituents | 30-day full-featured free trial (no credit card required) |
+| **[EveryAction](https://www.bonterratech.com/)** (Bonterra) | Unified CRM and fundraising platform (formerly EveryAction) focused on engagement, automation, moves management, and multi-channel campaigns. | Engagement & multi-channel fundraising | Custom quote-based (typically from ~$109/mo for base modules) | No free tier or free trial (demo available) |
+| **[Keela](https://www.keela.co/)** | Nonprofit CRM with smart donation asks, marketing automation, wealth screening insights, and tools designed to help teams raise more efficiently. | Smart fundraising & automation | From $125/mo for up to 1,000 contacts | 14-day free trial (no credit card required) |
 
 
 
