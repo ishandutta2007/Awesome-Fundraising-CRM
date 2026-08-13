@@ -58,7 +58,7 @@ Fundraising software and non-profit CRM platforms enable organizations to effect
 
 The list below is sorted by **GitHub Star Count** (descending).
 
-| Project | GitHub Stars | Description | License | Notes |
+| Project | GitHub_Stars | Description | License | Notes |
 |---------|--------------|-------------|---------|-------|
 | **[Apache Superset](https://github.com/apache/superset)** 📊 | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Modern open-source data exploration & visualization platform used for high-level donor analytics & executive fundraising dashboards. | Apache-2.0 | Advanced BI dashboards & donor analytics |
 | **[Twenty](https://github.com/twentyhq/twenty)** ⚡ | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Modern open-source CRM alternative providing full data control and extensible object schemas easily adaptable for donor management. | AGPL-3.0 | Modern CRM architecture & customizable objects |
